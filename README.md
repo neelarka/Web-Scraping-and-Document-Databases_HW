@@ -1,6 +1,6 @@
 # Mission to Mars
 
-![mission_to_mars](Images/mission_to_mars.jpg)
+![mission_to_mars](Images/img_new1.png)
 
 In this assignment, we build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what I did in order to build this web application:
 

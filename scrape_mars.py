@@ -6,7 +6,7 @@ import time
 import requests
 
 def init_browser():
-    executable_path = {"executable_path": "C:\Program Files\chromedriver.exe"}
+    executable_path = {"executable_path": "chromedriver.exe"}
     return Browser("chrome", **executable_path, headless = False)
   
 def scrape():
